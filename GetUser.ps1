@@ -1,0 +1,1 @@
+﻿Get-ADuser -Identity LARA
